@@ -26,13 +26,15 @@
 
 Spmb:spm是一种用来跟踪页面模块位置的编码，b位是spm的组成部分。
 
-![img](https://intranetproxy.alipay.com/skylark/lark/0/2023/png/62256711/1684387933359-b5cfb874-148c-4c66-8d28-0692a87bc536.png)
+<img width="1141" alt="image" src="https://github.com/DiegoWonn/intern-work-interface/assets/135291488/9dcfdfcd-b920-4e6c-8463-2f4549a070f5">
+
 
 ### 需求
 
 手动生成spmb:一般，产品的spmb都是批量自动生成的（viper中存在给产品批量生成spmb的接口），但是可能出现异常，或者是新产品，导致有的产品没有spmb。需求是提供一个接口，可以手动的为没有spmb的产品生成spmb.
 
-![image-20230705165629742](/Users/diego/Library/Application Support/typora-user-images/image-20230705165629742.png)
+<img width="1049" alt="image" src="https://github.com/DiegoWonn/intern-work-interface/assets/135291488/0d4fb30a-9e82-4c83-a33c-a06084d8eeb1">
+
 
 ### 验证
 
@@ -73,11 +75,13 @@ Spmb:spm是一种用来跟踪页面模块位置的编码，b位是spm的组成�
 
 ## 需求
 
-![image-20230705171646203](/Users/diego/Library/Application Support/typora-user-images/image-20230705171646203.png)
+<img width="1092" alt="image" src="https://github.com/DiegoWonn/intern-work-interface/assets/135291488/c9236587-6dc7-48c8-9ab0-7b7eac84c7bd">
+
 
 显示类似如图所示的数据源详情
 
-![image-20230705171802944](/Users/diego/Library/Application Support/typora-user-images/image-20230705171802944.png)
+<img width="916" alt="image" src="https://github.com/DiegoWonn/intern-work-interface/assets/135291488/eb9debe1-c57f-4a30-ace3-f9873d8501f2">
+
 
 ### 验证
 
